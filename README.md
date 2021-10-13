@@ -11,7 +11,7 @@ Repository used for NTUA/ECE Software Engineering, 2020-2021.
 This is an application which serves the use of being a management system to a network of EV charging stations.\
 Client-side users of this application can register/log-in (provided they have an EV) and use the application to\
 find the closest charging station in which to charge their EV (as well as many other features).\
-Admin-side users of this application can control various aspects of the application through a UI.\
+Admin-side users of this application can control various aspects of the application through a UI.
 
 The application features:
 
